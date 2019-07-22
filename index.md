@@ -2,7 +2,7 @@
 title: W&M MSBA Course Content
 ---
 
-![Github pic1] (githubpic1)
+![Github pic1](githubpic1)
 
 This is content I've developed for my Masters in Business Analytics at The College of William & Mary. 
 
