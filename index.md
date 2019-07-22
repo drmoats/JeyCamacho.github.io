@@ -2,9 +2,9 @@
 title: W&M MSBA Course Content
 ---
 
+![Github Pic](githubpic.jpg)
 
-
-This is content I've developed for my courses. 
+This is content I've developed for my Masters in Business Analytics courses at The College of William & Mary. 
 
 [Basic Graph Assignment](/M2GraphingHW/index.md).
 
